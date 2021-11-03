@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,MAAM,CAAA;EACH,gBAAgB,EAAE,KAAK;CACzB;;ADED,AAAA,EAAE,CAAA;EACC,KAAK,EAAE,OAAgB;CAEzB;;AAED,AAAA,IAAI,CAAA;EACJ,SAAS,EAAE,IAAI;CAId;;AALD,AAEG,IAFC,CAED,GAAG,CAAA;EACA,SAAS,EAAE,IAAI;CACjB;;AAGJ,AAAA,IAAI,CAAA;EACD,KAAK,EAAE,GAAG;CACZ;;AAED,AAAA,IAAI,CAAA;EACD,KAAK,EAAE,GAAG;CACZ",
+    "sources": [
+        "stile.scss",
+        "_header.scss"
+    ],
+    "names": [],
+    "file": "stile.css"
+}
